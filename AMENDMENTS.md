@@ -30,3 +30,4 @@ This charter binds us to a position we can be measured against. We cannot quietl
 | Version | Date | Change | Direction |
 | --- | --- | --- | --- |
 | 1.0 | 2026 | Initial charter published. | — |
+| 1.0 | 2026-11-14 | `MAINTENANCE.md` added — the upkeep procedure, as an operational document outside charter versioning. A link to it is added to the README. | neutral |

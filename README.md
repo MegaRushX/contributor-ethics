@@ -187,6 +187,8 @@ It grants no rights, warrants nothing, and creates no contract with any project,
 
 Our record is public, including the work that was declined and the work we withdrew: [RECORD.md](RECORD.md).
 
+The upkeep is defined in [MAINTENANCE.md](MAINTENANCE.md): what gets checked on every review of our contributions, and the rules that keep the record honest.
+
 ## Adopting this charter
 
 The text is licensed CC BY 4.0 and you are welcome to use it: [ADOPTING.md](ADOPTING.md).
