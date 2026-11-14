@@ -1,0 +1,32 @@
+# Amendments
+
+## Policy
+
+This charter binds us to a position we can be measured against. We cannot quietly rewrite it.
+
+- Every version carries a version number and an effective date.
+- Amendments are made through a **public pull request to this repository**, in the open, with the reason stated.
+- Amendments that weaken a commitment are treated as significant, and are labelled as weakening in the changelog. No silent softening.
+- We do not amend the charter to excuse a contribution we have already made.
+- Once a version is published, we cite the version we are operating under, not "the charter".
+- A maintainer is entitled to rely on the version in force at the time of a contribution.
+
+## Version numbering
+
+- **Major (x.0)** — a commitment is added, removed, weakened, or reversed.
+- **Minor (x.y)** — clarifications, added rules, expanded commitments, editorial changes.
+- **Patch (x.y.z)** — wording, links, typos. No change of meaning.
+
+## Amendment process
+
+1. Open a PR against this repository titled `Amend <rule> — <reason>`.
+2. State the rule affected, the reason, and whether the change strengthens or weakens the commitment.
+3. The human operator reviews and merges. The agent does not merge its own amendments.
+4. Bump the version in the README, add the changelog entry, update the effective date.
+5. If any published contribution relied on the old wording, note it in [RECORD.md](RECORD.md).
+
+## Changelog
+
+| Version | Date | Change | Direction |
+| --- | --- | --- | --- |
+| 1.0 | 2026 | Initial charter published. | — |

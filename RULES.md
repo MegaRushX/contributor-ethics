@@ -1,0 +1,63 @@
+# Operating Rules
+
+These are the checkable commitments behind the charter. Each rule can be verified from a pull request, a commit, an issue thread, or the record in this repository.
+
+If we break one, we write it in [RECORD.md](RECORD.md) and fix it.
+
+Where a project's own rules are stricter, **the project's rule applies.** Project rules outrank this charter.
+
+## Submission
+
+- **R1 — Human submission.** Every PR, commit, issue, comment, and review is made by xWaLeEdOoOx's account, after human review. MegaRushX does not submit autonomously.
+- **R2 — One account.** No bot accounts act on our behalf, and access is never shared.
+- **R3 — Disclosure.** Every submission carries the disclosure block from [SIGNATURES.md](SIGNATURES.md), naming what was generated and by which tool and model version.
+- **R4 — Truthful test claims.** We state what we tested, how, and in which environment, and what we did not test. We never claim a test we didn't run.
+- **R5 — One problem per PR.** No drive-by refactors, reformatting, renames, dependency bumps, or unrelated fixes bundled into a focused change.
+- **R6 — No bulk contributions.** At most 2 open PRs in a project at a time, and at most one PR per issue. No sweeping a repository for things to fix. No scripted PRs across many repositories.
+- **R7 — Discuss first.** A feature PR is preceded by an issue, unless the project explicitly accepts unsolicited PRs.
+- **R8 — Use what you contribute to.** We contribute to projects we actually run.
+- **R9 — No re-submission after refusal.** If a maintainer declines a proposal, we do not re-open, reframe, re-base, re-file, route around, or argue for it.
+
+## Opt-out
+
+- **R10 — AI refusal is final.** If a project does not accept AI-assisted contributions, we close the PR, withdraw, and stop contributing there. No re-submission, no appeals, no proxy accounts.
+- **R11 — Rules outrank us.** Where project rules conflict with this charter, the project wins. We do not cite this charter against a maintainer.
+
+## Code provenance and licensing
+
+- **R12 — Provenance recorded.** For any code we adapt, we record the source, its license, and the version we read it from.
+- **R13 — No license crossing.** We never move code from a copyleft source into a permissive project, or in the reverse direction, or into a project with an incompatible license.
+- **R14 — No wholesale copying.** We don't paste large bodies of third-party code as our own contribution.
+- **R15 — Honest sign-off.** Where a DCO is required, we sign only code we have read and have the right to submit.
+- **R16 — Reverse-engineering limits.** We don't publish a project's decompiled source, redistribute its binaries, or submit work built from assets the project has no license to redistribute.
+
+## Security and privacy
+
+- **R17 — No secrets.** We never commit keys, tokens, credentials, `.env` files, API endpoints, private URLs, personal data, or local absolute paths.
+- **R18 — No phones home.** Contributed code sends no data anywhere outside what the project's design specifies.
+- **R19 — No hidden automation.** Contributed code runs no background processes, auto-updaters, remote control hooks, or telemetry.
+- **R20 — No tool leakage.** Generated code carries no vendor watermark, license check, telemetry callback, or tool-specific dependency introduced by the generating tool.
+- **R21 — No borrowed access.** Access granted for one purpose is never used for another.
+
+## Quality
+
+- **R22 — Read before writing.** We read the surrounding code and match its conventions, naming, style, and structure.
+- **R23 — Smallest change that solves it.** We prefer the minimal diff, and we explain the diff.
+- **R24 — No new dependency without a reason.** Adding a dependency requires a stated reason and its license checked.
+- **R25 — Reversible.** Contributions are structured so a maintainer can revert them cleanly.
+- **R26 — No vanity metrics.** We don't present lines of code, PR counts, or merge counts as a measure of the work.
+- **R27 — "Not worth doing" is a valid outcome.** Identifying a problem, documenting it, or recommending against a change counts as contributing.
+
+## After the merge
+
+- **R28 — We stay reachable.** We respond to reasonable follow-up on what we contributed, for as long as we are involved with the project.
+- **R29 — We fix what we broke.** If a contribution introduces a regression, we own it, disclose it, and fix it.
+- **R30 — We record outcomes.** Merged, declined, and withdrawn contributions are recorded in [RECORD.md](RECORD.md), with the maintainer's stated reason.
+- **R31 — We publish our own failures.** Charter violations we detect in our own conduct are recorded, with the correction.
+
+## What we do not promise
+
+- We don't promise to maintain a feature forever.
+- We don't promise to act on every review comment, in every project, indefinitely.
+- We don't promise a response time.
+- We don't warrant anything. This is a statement of intent, not a contract, and it grants no rights to anyone.
