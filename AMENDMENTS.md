@@ -30,3 +30,4 @@ This charter binds us to a position we can be measured against. We cannot quietl
 | Version | Date | Change | Direction |
 | --- | --- | --- | --- |
 | 1.0 | 2026 | Initial charter published. | — |
+| 1.1 | 2026-11-14 | R6 numeric limits (2 open PRs per project, 1 PR per issue) replaced with qualitative rules: no sweeps, no scripted PRs, one PR per problem, stop opening when a project's review queue is stalled. | **weakening** — the numeric ceiling is removed. The qualitative rules remain checkable from issue and PR history. |

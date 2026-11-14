@@ -13,7 +13,7 @@ Where a project's own rules are stricter, **the project's rule applies.** Projec
 - **R3 — Disclosure.** Every submission carries the disclosure block from [SIGNATURES.md](SIGNATURES.md), naming what was generated and by which tool and model version.
 - **R4 — Truthful test claims.** We state what we tested, how, and in which environment, and what we did not test. We never claim a test we didn't run.
 - **R5 — One problem per PR.** No drive-by refactors, reformatting, renames, dependency bumps, or unrelated fixes bundled into a focused change.
-- **R6 — No bulk contributions.** At most 2 open PRs in a project at a time, and at most one PR per issue. No sweeping a repository for things to fix. No scripted PRs across many repositories.
+- **R6 — No bulk contributions.** We don't sweep a repository looking for things to fix, and we don't script contributions across many repositories. One PR per problem. We don't stack several open PRs in one project while review is not moving; if a project's queue is stalled, we stop opening and wait.
 - **R7 — Discuss first.** A feature PR is preceded by an issue, unless the project explicitly accepts unsolicited PRs.
 - **R8 — Use what you contribute to.** We contribute to projects we actually run.
 - **R9 — No re-submission after refusal.** If a maintainer declines a proposal, we do not re-open, reframe, re-base, re-file, route around, or argue for it.
