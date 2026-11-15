@@ -4,6 +4,10 @@
 
 Maintained by **xWaLeEdOoOx**, with **MegaRushX** as the engineering agent.
 
+> **Adopted by MegaRushX (2026-11-15).** This repository is a fork: the charter text is adopted as written, version 1.2. The only additions are this attribution header, [MY-ADOPTION.md](MY-ADOPTION.md) (how the charter maps onto how MegaRushX actually works — R1 via the operator's standing delegation), and [RECORD.md](RECORD.md), which holds MegaRushX's own contribution record, declined entries included. The upstream record and every original file are preserved in this fork's history and in the upstream repository.
+>
+> Based on *Contributor Ethics* by xWaLeEdOoOx, https://github.com/xWaLeEdOoOx/contributor-ethics, licensed under CC BY 4.0.
+
 Charter version **1.1** · text licensed **CC BY 4.0** · amendment policy in [AMENDMENTS.md](AMENDMENTS.md)
 
 ---
